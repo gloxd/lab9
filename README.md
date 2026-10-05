@@ -66,10 +66,8 @@
 
 ### Тестирование
 
-[Скриншот 1: Главное окно программы с введенными коэффициентами и рассчитанными корнями]
+<img width="724" height="755" alt="image" src="https://github.com/user-attachments/assets/b659f78c-13f5-468b-977f-7976b3d05da1" />
 
-[Скриншот 2: Работа унарных операторов ++ и --]
+<img width="722" height="743" alt="image" src="https://github.com/user-attachments/assets/5ea69679-28b9-4ff7-a6ee-c4c9961a380f" />
 
-[Скриншот 3: Тестирование операторов сравнения == и != для двух уравнений]
-
-[Скриншот 4: Обработка ошибок ввода (например, при a = 0 или некорректных символах)]
+<img width="718" height="750" alt="image" src="https://github.com/user-attachments/assets/29d200b0-378f-41ff-83cc-1dcf8b21e0e3" />
